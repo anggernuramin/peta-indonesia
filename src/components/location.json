@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Jabodetabek",
+    "position": [-6.2088, 106.8456]
+  },
+  {
+    "id": 2,
+    "name": "Bali",
+    "position": [-8.409518, 115.188919]
+  },
+  {
+    "id": 3,
+    "name": "Surabaya",
+    "position": [-7.2575, 112.7521]
+  },
+  {
+    "id": 4,
+    "name": "Yogyakarta",
+    "position": [-7.8014, 110.3648]
+  }
+]
